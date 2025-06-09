@@ -12,6 +12,11 @@ author_profile: true
 - **B.Sc. in Information Communication technology** – Laikipia university
 - **Certificate in Computer Applications** -  Ebenezer Infor College
 
+### 🎓 Education Development
+- **Certificate in Cybersecurity** - Kenyatta University
+- **Certificate in Cloud and Network Security** - Cyber Shujaa
+- **Certificate in Cybersecurity** - H4K-IT
+
 ### 💼 Work Experience
 - **IT Attachee** – County Government of Nakury(May 2023 – August 2023)_  
   - Resolutions of hardware and software related problems
@@ -24,30 +29,31 @@ author_profile: true
 
 ### 🏆 Certifications
 - I have completed several certifications. They are availlable at https://www.credly.com/users/stacey-mmbone
-- Introduction to Networks
-- Introduction to IOT
-- Introduction to Cybersecurity
-- IT Essentials
-- Enterprise Networking, Security, and Automation
+  - Introduction to Networks
+  - Introduction to IOT
+  - Introduction to Cybersecurity
+  - IT Essentials
+  - Enterprise Networking, Security, and Automation
 
 ### 🛠 Skills
-- **Languages:** Python, JavaScript, HTML/CSS, Bash
-- **Tools:** Wireshark, Burp Suite, Nmap, Git, Splunk
-- **Frameworks:** Flask, React
-- **Domains:** Web Security, Digital Forensics, Full-Stack Development
+- Effective Communication skills
+- Leadership and self-motivated
+- Interpersonal skills.
+- Team player
+- Good Public relation skills
+- Emotional intelligence
+- Problem solving
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Tools:** Wireshark, cURL, Nmap, 
+- **Frameworks:** Flask
 
 ---
 
 ## 🚀 Projects
 
-### 🔍 [WebGuard](https://github.com/YOUR_USERNAME/WebGuard)
-An AI-assisted web vulnerability scanner built with Flask that finds common security flaws and suggests fixes.
+### 🔍 [WebGuard] Still under development
+An Automated web vulnerability scanner and Pentester. Built with Flask that finds common security flaws and suggests fixes. Based on OWASP TOP 10 Vulnurabilities.
 
-### 🧪 [Digital Forensics Toolkit](https://github.com/YOUR_USERNAME/Forensics-Toolkit)
-A Python-based toolkit to collect and analyze forensic artifacts from compromised systems.
-
-### 🌐 [Portfolio Site](https://github.com/YOUR_USERNAME/portfolio-site)
-The code behind this portfolio — built using the Minimal Mistakes Jekyll theme and fully responsive.
 
 ---
 
@@ -60,8 +66,10 @@ The code behind this portfolio — built using the Minimal Mistakes Jekyll theme
 - **Serach skills:** Learnt several search engines.
 
 ### 🧱 Hack The Box (HTB)
-- **Web Requests:** Learnt how HTTP methods like GET and POST are used in web communication and how to analyze them using tools like CURL and identify and manipulate request data, which is essential for understanding web vulnerabilities.
-- **Intro to Network Security Anlysis:** Learnt how to capture and analyze network packets using tools like Wireshark. Also, to identify suspicious traffic patterns and understand basic protocols like TCP, UDP, and HTTP.
+- **Web Requests:** How HTTP methods like GET and POST are used in web communication, form submissions, URL parameters, and how data is transmitted over the web. Used tools like CURL and WEb browser to identify and manipulate request data, which is essential for understanding web vulnerabilities.
+- **Intro to Network Security Anlysis:** Examining network traffic to characterize common ports and protocols utilized and this can help monitor and respond to threats. Learnt how to capture and analyze network packets using tools like Wireshark. Also, to identify suspicious traffic patterns and understand basic protocols like TCP, UDP, and HTTP.
+- ![image](https://github.com/user-attachments/assets/c3752442-f79b-461a-aa88-3b88c75f81c6)
+
 
 ---
 
