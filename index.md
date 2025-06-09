@@ -12,10 +12,10 @@ author_profile: true
 - **B.Sc. in Information Communication technology** – Laikipia university
 - **Certificate in Computer Applications** -  Ebenezer Infor College
 
-### 🎓 Education Development
-- **Certificate in Cybersecurity** - Kenyatta University
-- **Certificate in Cloud and Network Security** - Cyber Shujaa
-- **Certificate in Cybersecurity** - H4K-IT
+### 🎓 Professional Development
+- **Certificate in Cybersecurity** - Kenyatta University (March-May 2025)
+- **Certificate in Cloud and Network Security** - Cyber Shujaa (May-To date)
+- **Certificate in Cybersecurity** - H4K-IT (May-To date)
 
 ### 💼 Work Experience
 - **IT Attachee** – County Government of Nakury(May 2023 – August 2023)_  
