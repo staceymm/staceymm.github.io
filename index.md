@@ -9,9 +9,7 @@ author_profile: true
 
 <div align="center">
   <h2>Proffesional Statement</h2>
-  <p><em>I have a solid foundation in Information and Communication Technology (ICT), and I'm currently expanding my expertise in the fields of cybersecurity and digital forensics, Cloud and Network Security. My passion lies in understanding how systems work beneath the surface, identifying vulnerabilities, and helping protect digital assets in an ever-evolving threat landscape.
-I'm actively building hands-on experience in areas such as penetration testing and network security to enhance real-world problem-solving.
-I’m eager to contribute to a safer digital world</em></p>
+  <p><em>I have a solid foundation in Information and Communication Technology (ICT), and I'm currently expanding my expertise in the fields of cybersecurity and digital     forensics, Cloud and Network Security. My passion lies in understanding how systems work beneath the surface, identifying vulnerabilities, and helping protect digital assets in an ever-evolving threat landscape. I'm actively building hands-on experience in areas such as penetration testing and network security to enhance real-world problem-solving. I’m eager to contribute to a safer digital world.</em></p>
 </div>
 
 ---
