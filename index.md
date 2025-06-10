@@ -3,20 +3,15 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "Stacey — Cybersecurity Analyst"
 author_profile: true
 
-header:
-  overlay_image: /assets/images/header.jpg  # Replace with your header image path
-  overlay_filter: "0.4"
-  caption: "Cybersecurity | Forensics | Full-Stack Development"
-excerpt: "Portfolio of Stacey — Securing systems and solving challenges through code and curiosity."
 ---
 
 <div align="center">
-  <img src="/assets/images/profile.jpg" alt="Stacey's Profile Photo" width="160" style="border-radius: 50%;" />
-  <h2>Stacey</h2>
-  <p><em>Cybersecurity Enthusiast | Digital Forensics Explorer | Full-Stack Developer</em></p>
+  <h2>Proffesional Statement</h2>
+  <p><em>I have a solid foundation in Information and Communication Technology (ICT), and I'm currently expanding my expertise in the fields of cybersecurity and digital forensics. My passion lies in understanding how systems work beneath the surface, identifying vulnerabilities, and helping protect digital assets in an ever-evolving threat landscape.
+I'm actively building hands-on experience in areas such as penetration testing, network security, and forensic investigations, while also working on personal projects that reflect my commitment to continuous learning and real-world problem-solving.
+I’m eager to connect with professionals in the cybersecurity space, collaborate on meaningful projects, and contribute to a safer digital world</em></p>
 </div>
 
 ---
