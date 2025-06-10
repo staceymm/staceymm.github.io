@@ -2,8 +2,23 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash
+layout: single
+title: "Stacey — Cybersecurity Analyst"
 author_profile: true
+
+header:
+  overlay_image: /assets/images/header.jpg  # Replace with your header image path
+  overlay_filter: "0.4"
+  caption: "Cybersecurity | Forensics | Full-Stack Development"
+excerpt: "Portfolio of Stacey — Securing systems and solving challenges through code and curiosity."
+---
+
+<div align="center">
+  <img src="/assets/images/profile.jpg" alt="Stacey's Profile Photo" width="160" style="border-radius: 50%;" />
+  <h2>Stacey</h2>
+  <p><em>Cybersecurity Enthusiast | Digital Forensics Explorer | Full-Stack Developer</em></p>
+</div>
+
 ---
 
 ## 📄 Resume Overview
