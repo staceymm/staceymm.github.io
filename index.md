@@ -9,8 +9,8 @@ author_profile: true
 ## 📄 Resume Overview
 
 ### 🎓 Education
-- **B.Sc. in Information Communication technology** – Laikipia university
-- **Certificate in Computer Applications** -  Ebenezer Infor College
+- **B.Sc. in Information Communication technology** – Laikipia university (2019-2023)
+- **Certificate in Computer Applications** -  Ebenezer Infor College (feb-may 2019)
 
 ### 🎓 Professional Development
 - **Certificate in Cybersecurity** - Kenyatta University (March-May 2025)
@@ -51,7 +51,7 @@ author_profile: true
 
 ## 🚀 Projects
 
-### 🔍 [WebGuard] Still under development
+### 🔍 WebGuard - Still under development
 An Automated web vulnerability scanner and Pentester. Built with Flask that finds common security flaws and suggests fixes. Based on OWASP TOP 10 Vulnurabilities.
 
 
@@ -60,7 +60,7 @@ An Automated web vulnerability scanner and Pentester. Built with Flask that find
 ## 🔐 Lab Challenges
 
 ### 💻 TryHackMe Highlights
-- **Offensive Security Intro:** Breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access. Was able to hack my first machine.
+- **Offensive Security Intro:** Breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access. Learnt how to hack a machine.
 - **Defensive Security Intro:** Learnt  concepts used to protect systems and networks from cyber threats and build skills in blue team operations and incident response.
 - **DNS in Details:** Learnt to build requests to make DNS queries and view the results.
 - **Serach skills:** Learnt several search engines.
