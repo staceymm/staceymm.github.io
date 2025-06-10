@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+layout: splash
 author_profile: true
 ---
 
@@ -68,7 +68,6 @@ An Automated web vulnerability scanner and Pentester. Built with Flask that find
 ### 🧱 Hack The Box (HTB)
 - **Web Requests:** How HTTP methods like GET and POST are used in web communication, form submissions, URL parameters, and how data is transmitted over the web. Used tools like CURL and WEb browser to identify and manipulate request data, which is essential for understanding web vulnerabilities.
 - **Intro to Network Security Anlysis:** Examining network traffic to characterize common ports and protocols utilized and this can help monitor and respond to threats. Learnt how to capture and analyze network packets using tools like Wireshark. Also, to identify suspicious traffic patterns and understand basic protocols like TCP, UDP, and HTTP.
-- ![image](https://github.com/user-attachments/assets/c3752442-f79b-461a-aa88-3b88c75f81c6)
 
 
 ---
@@ -79,7 +78,7 @@ You can reach out to me professionally via the following platforms:
 
 - 💼 [LinkedIn](https://linkedin.com/in/stacey-mmbone)
 - 💻 [GitHub](https://github.com/staceymm/)
-- 📧 Email: (staceymmbone7@gmail.com)
+- 📧 Email: staceymmbone7@gmail.com
 - 📱 Phone: +254740782146
 
 ---
